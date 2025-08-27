@@ -6,4 +6,4 @@
 
 - Estado del proyecto: Regresamos despues de TRES SEMANAS 
 ## :hammer:Funcionalidades Agregadas al proyecto 
-`Funcionalidad 1`: descripcion de la funcionalidad 1
+`Funcionalidad 1`: Agregamos la opcion de ñadir nombre y de mostrarlo en pantalla
