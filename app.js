@@ -33,6 +33,6 @@ function mostrarAmigos() {
         lista.appendChild(li);
     });
 }
-
+console.log("Hola a todos")
 console.log(amigos);
 //Regresamos despues de tres semanas 
