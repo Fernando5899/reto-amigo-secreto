@@ -35,3 +35,4 @@ function mostrarAmigos() {
 }
 
 console.log(amigos);
+//Regresamos despues de tres semanas 
